@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * Prometheus指标绑定
  *
- * @author 艾江南
+ * @author AiJiangnan
  * @date 2021/5/22
  */
 public class PrometheusMetricsBinder implements ApplicationListener<ApplicationStartedEvent> {

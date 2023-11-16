@@ -9,7 +9,7 @@ import java.util.function.ToDoubleFunction;
 /**
  * Prometheus指标监控
  *
- * @author 艾江南
+ * @author AiJiangnan
  * @date 2021/7/23
  */
 public class MetricRegistry implements Metrics {

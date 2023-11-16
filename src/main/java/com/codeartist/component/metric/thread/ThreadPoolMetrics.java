@@ -11,7 +11,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 /**
  * 线程池指标
  *
- * @author 艾江南
+ * @author AiJiangnan
  * @date 2021/5/22
  */
 @Getter

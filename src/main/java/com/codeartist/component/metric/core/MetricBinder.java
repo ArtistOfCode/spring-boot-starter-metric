@@ -5,7 +5,7 @@ import com.codeartist.component.core.support.metric.Metrics;
 /**
  * 指标绑定接口
  *
- * @author 艾江南
+ * @author AiJiangnan
  * @date 2021/7/23
  */
 public interface MetricBinder {
